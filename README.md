@@ -1,1 +1,1 @@
-# SD3-proyecto-integrador
+# Proyecto integrador
